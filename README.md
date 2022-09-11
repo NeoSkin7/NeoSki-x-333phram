@@ -1,2 +1,5 @@
-# NeoSki-x-333phram
-A code space for NeoSki and 333phram
+# NeoSki x 333phram
+
+A project to get 333phram started with website coding.
+
+Hosted by Netlify, ♥️ those guys!
