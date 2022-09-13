@@ -1,10 +1,13 @@
 body {
     background-color: #151425;
-    background-image: url(https://wallpapercave.com/wp/wp10616319.jpg);
+    background:
+        linear-gradient(rgba(0, 0, 0, 0.7),
+            rgba(0, 0, 0, 0.7)),
+        url(https://wallpapercave.com/wp/wp3493595.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size: auto;
-    color: #d3d14e;
+    color: #999993;
     font-family: Arial, Helvetica, sans-serif;
 }
